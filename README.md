@@ -1,2 +1,5 @@
 # systems-design
-System design Mockups and code
+
+A collection of systems design mockups, code and docs from me (@ChariotDigital)
+
+
